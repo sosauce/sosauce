@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm sosauce</h1>
-<h3 align="center">A 14 y/o that loves coding everything !</h3>
+<h3 align="center">A 14 y/o who loves coding everything !</h3>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available [(here) [github.com/sosauce]]((here) [github.com/sosauce])
+- 👨‍💻 All of my projects are available [here] (github.com/sosauce)
 
 - 📫 How to reach me **Discord : sosauce#9585**
 
