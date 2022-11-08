@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available [here] (https://github.com/sosauce)
+- 👨‍💻 All of my projects are available [here](https://github.com/sosauce)
 
 - 📫 How to reach me **Discord : sosauce#9585**
 
