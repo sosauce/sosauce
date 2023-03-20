@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sosauce</h1>
-<h3 align="center">A 14 y/o who loves coding everything !</h3>
+<h3 align="center">A 14 y/o who eats breakfast slowly (get it ?)</h3>
 
 - 🌱 I’m currently learning **HTML**
 
