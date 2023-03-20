@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sosauce)
 
-- 📫 How to reach me **Discord : sosauce#9585**
+- 📫 How to reach me ? **Lol you don't (ok you [here](mailto:sosauce_dev@protonmail.com)**
 
 - ⚡ Fun fact **I eat cats 🤨**
 
