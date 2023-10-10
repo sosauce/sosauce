@@ -7,5 +7,5 @@
 
 - 📫 How to reach me ? **Lol you don't (ok you can [here](mailto:sosauce_dev@protonmail.com))**
 
-- ⚡ Fun fact **I eat cats 🤨**
+- ⚡ Fun fact **SATAAA ANDAGIII**
 
