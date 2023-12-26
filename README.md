@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sosauce</h1>
 <h3 align="center">A 15 y/o who eats breakfast slowly (get it ?)</h3>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sosauce)
 
