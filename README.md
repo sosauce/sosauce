@@ -3,7 +3,7 @@
 
 - 🪐 I’m currently learning **Kotlin & Jetpack Compose**
 
-- 🚀 All of my projects are available [here](https://github.com/sosauce)
+- 🚀 All of my projects are available **[here](https://github.com/sosauce)**
 
 - ⭐️ My best app so far **[CuteCalc](https://github.com/sosauce/CuteCalc)**
 
