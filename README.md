@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sosauce</h1>
-<h3 align="center">A 15 y/o who eats breakfast slowly (get it ?)</h3>
+<h3 align="center">A 15 y/o who codes Android apps!</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🪐 I’m currently learning **Kotlin & Jetpack Compose**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/sosauce)
+- 🚀 All of my projects are available [here](https://github.com/sosauce)
 
-- 📫 How to reach me ? **Lol you don't (ok you can [here](mailto:sosauce_dev@protonmail.com))**
+- ⭐️ My best app so far **[CuteCalc](https://github.com/sosauce/CuteCalc)**
 
-- ⚡ Fun fact **SATAAA ANDAGIII**
+- ☄️ My life in 3 words **Yeat, Code, Girlfriend**
 
