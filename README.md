@@ -7,4 +7,4 @@
 
 - ⭐️ My best app so far **[CuteCalc](https://github.com/sosauce/CuteCalc)**
 
-- ☄️ My life in 3 words: **Sleep, Code, Gwen**
+- ☄️ My life in 3 words: **Sleep, Code, Cat**
