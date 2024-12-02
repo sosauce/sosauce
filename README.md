@@ -1,10 +1,32 @@
 <h1 align="center">Hi 👋, I am sosauce</h1>
-<h3 align="center">A 16 y/o who codes Android apps!</h3>
+<h3 align="left">🔽 Some stats about me ! 🔽</h3>
 
-- 🪐 I’m currently learning **Kotlin & Jetpack Compose**
 
-- 🚀 All of my projects are available **[here](https://github.com/sosauce)**
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosauce&theme=dark&langs_count=8&hide=swig&layout=compact">
+</p>
+<p align="left"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sosauce&show_icons=true&theme=dark&icon_color=34a851"/>
+</p>
 
-- ⭐️ My best app so far **[CuteMusic](https://github.com/sosauce/CuteMusic)**
 
-- ☄️ My life in 3 words: **Sleep, Code, Cat**
+### Tech Stack 👀 (I ain't much, but it's honest work):
+
+![Static Badge](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
+![Static Badge](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
+![Static Badge](https://img.shields.io/badge/HTML-181A18?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/CSS-181A18?style=for-the-badge&logo=CSS3)
+![Static Badge](https://img.shields.io/badge/VSCodium-181A18?style=for-the-badge&logo=VSCodium)
+
+
+
+
+
+
+
+
+
+
+<img alt="profile_visit" src="https://komarev.com/ghpvc/?username=sosauce&color=181A18&style=pixel&abbreviated=true" />
