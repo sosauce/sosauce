@@ -3,10 +3,10 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosauce&theme=dark&langs_count=8&hide=swig&layout=compact">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sosauce&theme=date_night">
 </p>
 <p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=sosauce&show_icons=true&theme=dark&icon_color=34a851"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sosauce&theme=date_night"/>
 </p>
 
 
