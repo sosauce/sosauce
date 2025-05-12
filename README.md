@@ -13,6 +13,7 @@
 ### Tech Stack 👀 (I ain't much, but it's honest work):
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
+![Static Badge](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
 ![Static Badge](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
